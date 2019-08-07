@@ -10,10 +10,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Folder Include="Config\" />
-    <Folder Include="Localization\" />
-    <Folder Include="Src\" />
-    <Folder Include="Src\CIBrigde_MercenaryPlasmaWeapons\" />
-    <Folder Include="Src\CIBrigde_MercenaryPlasmaWeapons\Classes\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Config\XComInfiltration.ini">
@@ -27,11 +23,6 @@
     </Content>
     <Content Include="ReadMe.txt" />
     <Content Include="ModPreview.jpg" />
-    <Content Include="Config\XComEditor.ini" />
-    <Content Include="Config\XComEngine.ini" />
-    <Content Include="Config\XComGame.ini" />
-    <Content Include="Localization\XComGame.int" />
-    <Content Include="Src\CIBrigde_MercenaryPlasmaWeapons\Classes\X2DownloadableContentInfo_CIBrigde_MercenaryPlasmaWeapons.uc" />
   </ItemGroup>
   <Import Project="$(MSBuildLocalExtensionPath)\XCOM2.targets" />
 </Project>
