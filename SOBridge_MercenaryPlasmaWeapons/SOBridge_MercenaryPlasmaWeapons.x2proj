@@ -1,12 +1,12 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Guid>1f486670-64cd-4b33-91ed-c52ab178674d</Guid>
-    <Name>CIBrigde_MercenaryPlasmaWeapons</Name>
+    <Name>SOBridge_MercenaryPlasmaWeapons</Name>
     <Description>Description of My XCOM 2 Mod.</Description>
     <SteamPublishID>0</SteamPublishID>
-    <AssemblyName>CIBridge_MercenaryPlasmaWeapons</AssemblyName>
-    <RootNamespace>CIBridge_MercenaryPlasmaWeapons</RootNamespace>
+    <AssemblyName>SOBridge_MercenaryPlasmaWeapons</AssemblyName>
+    <RootNamespace>SOBridge_MercenaryPlasmaWeapons</RootNamespace>
     <ProjectGuid>{2d014018-f112-4433-a913-675b4125898f}</ProjectGuid>
   </PropertyGroup>
   <ItemGroup>

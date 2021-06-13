@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # XCOM ModBuddy Solution File, Format Version 11.00
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{5DAE07AF-E217-45C1-8DE7-FF99D6011E8A}") = "CIBridge_MercenaryPlasmaWeapons", "CIBridge_MercenaryPlasmaWeapons\CIBridge_MercenaryPlasmaWeapons.x2proj", "{2D014018-F112-4433-A913-675B4125898F}"
+Project("{5DAE07AF-E217-45C1-8DE7-FF99D6011E8A}") = "SOBridge_MercenaryPlasmaWeapons", "SOBridge_MercenaryPlasmaWeapons\SOBridge_MercenaryPlasmaWeapons.x2proj", "{2D014018-F112-4433-A913-675B4125898F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
